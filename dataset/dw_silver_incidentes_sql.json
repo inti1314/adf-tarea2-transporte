@@ -53,8 +53,8 @@
 			}
 		],
 		"typeProperties": {
-			"schema": "silver",
-			"table": "Incidentes"
+			"schema": "dbo",
+			"table": "IncidentesAzure"
 		}
 	}
 }

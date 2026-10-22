@@ -58,8 +58,8 @@
 			}
 		],
 		"typeProperties": {
-			"schema": "silver",
-			"table": "Paradas"
+			"schema": "dbo",
+			"table": "ParadasAzure"
 		}
 	}
 }
