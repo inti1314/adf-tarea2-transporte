@@ -6,12 +6,12 @@
 		"type": "AzureSqlDatabase",
 		"typeProperties": {
 			"server": "sql-ucb-server-transporte-9406373v2.database.windows.net",
-			"database": "erp_transporte_db",
+			"database": "dw_transporte",
 			"encrypt": "mandatory",
 			"trustServerCertificate": false,
 			"authenticationType": "SQL",
 			"userName": "inti",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDVDMUE1QTZGLTBEQTktNDQ2MC04NTJBLTJEMDAzQUYyNUZENV9lNjQ3ODBjYS0wZGIxLTRmYmMtYjMwYS1mNGZlYTM4MzhlMTAiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDVDMUE1QTZGLTBEQTktNDQ2MC04NTJBLTJEMDAzQUYyNUZENV80MzE1ZjU5My03NzhhLTQwZmMtOGY4Zi1jNzExNDJjN2I2NWEiDQp9"
 		}
 	}
 }
