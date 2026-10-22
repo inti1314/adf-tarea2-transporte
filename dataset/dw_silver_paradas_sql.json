@@ -12,11 +12,6 @@
 		"type": "AzureSqlTable",
 		"schema": [
 			{
-				"name": "AnioFuente",
-				"type": "smallint",
-				"precision": 5
-			},
-			{
 				"name": "ParadaHistoricaId",
 				"type": "nvarchar"
 			},
@@ -58,8 +53,8 @@
 			}
 		],
 		"typeProperties": {
-			"schema": "dbo",
-			"table": "ParadasAzure"
+			"schema": "silver",
+			"table": "Paradas"
 		}
 	}
 }
