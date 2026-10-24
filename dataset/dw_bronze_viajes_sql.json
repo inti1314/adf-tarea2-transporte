@@ -2,7 +2,7 @@
 	"name": "dw_bronze_viajes_sql",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "sql_dw_transporte",
+			"referenceName": "sql_erp_transporte",
 			"type": "LinkedServiceReference"
 		},
 		"folder": {
@@ -57,7 +57,7 @@
 			}
 		],
 		"typeProperties": {
-			"schema": "bronze",
+			"schema": "dbo",
 			"table": "ViajesAzure"
 		}
 	}
